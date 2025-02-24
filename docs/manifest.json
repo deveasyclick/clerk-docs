@@ -2642,10 +2642,6 @@
               ]
             },
             {
-              "title": "Localization",
-              "href": "/docs/customization/localization"
-            },
-            {
               "title": "Custom Pages",
               "collapse": true,
               "items": [
@@ -2673,6 +2669,10 @@
                   }
                 ]
               ]
+            },
+            {
+              "title": "Localization",
+              "href": "/docs/customization/localization"
             },
             {
               "title": "Elements",
